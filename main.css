@@ -34,6 +34,7 @@ body {
   float: left;
   width: 33.33%;
   padding: 15px;
+  color: white;
 }
 
 /* Clear floats after the columns */
@@ -57,4 +58,5 @@ img.scr {
 
 dd.s{
 list-style-type:disc;
+color: white;
 }
